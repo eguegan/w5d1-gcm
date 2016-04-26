@@ -30,4 +30,5 @@ dependencies {
 
     compile 'com.pushbots:pushbots-lib:2.0.13@aar'
     compile 'com.android.support:support-v4:23.0.3'
+    compile 'com.pubnub:pubnub-android:3.7.8'
 }
